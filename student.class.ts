@@ -2,7 +2,8 @@ export class Student{
 	Id: number;
 	Firstname : string;
 	Lastname : string;
-	GPA: string;
+	GPA: number;
+	SAT: number;
 	Major: string;
-	
+	year: string;
 }
