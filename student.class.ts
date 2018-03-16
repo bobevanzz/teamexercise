@@ -7,4 +7,5 @@ export class Student{
 	Major: string;
 	year: string;
 	Active: boolean;
+	DateCreated: string;
 }
